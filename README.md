@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 Please note that the experiments were carried out with an NVIDIA RTX 3080 graphics card, which requires the most up-to-date version of Pytorch (1.11). This version may not work on your machine, and you may need to install an earlier version.
 
-## Experiment 1: NeuralRandUCB performance with different configurations
+## Experiment 1: NeuralRandUCB's performance with different configurations
 
 To generate the results:
 
@@ -30,7 +30,7 @@ To generate the graphs:
 python neuralrandUCB_vs_neuralTS_plot.py
 ```
 
-## Experiment 2: Performance de NeuralRandUCB compared to other algorithms
+## Experiment 2: NeuralRandUCB's performance compared to other algorithms
 
 To generate the results:
 
