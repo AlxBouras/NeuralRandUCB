@@ -1,5 +1,5 @@
 # NeuralRandUCB
-RL project for the fall 2021 semester of the IFT-7201 (RL) course @ Université Laval.
+RL project for the fall 2021 semester of the IFT-7201 (RL) course @ Université Laval taught by [Audrey Durand](https://audur2.ift.ulaval.ca).
 
 This Github repository contains the code needed to carry out the experiments described in the project report. We have taken and adapted the following code: [NeuralTS](https://github.com/ZeroWeight/NeuralTS),  [RandUCB](https://github.com/vaswanis/randucb), [Personalized News Article Recommendation](https://github.com/antonismand/Personalized-News-Recommendation).
 
