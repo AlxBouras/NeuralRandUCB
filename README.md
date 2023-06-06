@@ -6,7 +6,7 @@ This repo contains the code needed to carry out the experiments described in the
 
 In addition, we used a sample of the R6A - Yahoo front page today module user click log dataset to perform the experiment using news article recommendation. This can be obtained from the following [link](https://drive.google.com/file/d/1jkKjUaL3uyOZb1mRYC0JVy50Peja8msm/view?usp=sharing).
 
-This file must then be included in > dataset > R6
+This file must then be included in the following directories: articles_recommendation > dataset > R6
 
 Make sure you install the required libraries:
 
